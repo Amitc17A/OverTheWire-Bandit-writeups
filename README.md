@@ -14,7 +14,7 @@ This repository contains step-by-step writeups, command breakdowns, and solution
 
 | Level | Key Concepts / Commands | Status | Writeup |
 | :--- | :--- | :---: | :---: |
-| **Level 0 → 0-1** | `ssh`, `ls`, `cat` | ✅ | [View Writeup](./levels/level00-01.md) |
+| **Level 0 → 0-1** | `ssh`, `ls`, `cat` | ✅ | [View Writeup](./Level0.md) |
 | **Level 1 → 2** | `cat`, handling dashed filenames (`./-`) | ✅ | [View Writeup](./levels/level01-02.md) |
 | **Level 2 → 3** | Handling spaces in filenames | ✅ | [View Writeup](./levels/level02-03.md) |
 | **Level 3 → 4** | Hidden files (`ls -a`) | ✅ | [View Writeup](./levels/level03-04.md) |
