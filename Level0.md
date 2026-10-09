@@ -36,4 +36,5 @@ exit
 ```
 
 ### 📸Screenshot
+![image alt](https://github.com/Amitc17A/OverTheWire-Bandit-writeups/blob/d75b8603bad4f4797778769473f4355b1228f2b6/Screenshot_2026-10-09_01_34_38.png)
 
