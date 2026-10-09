@@ -27,9 +27,8 @@ This repository contains step-by-step writeups, command breakdowns, and solution
 ```text
 .
 ├── README.md
-├── levels/
-│   ├── level00-01.md
-│   ├── level01-02.md
-│   └── level02-03.md
+│   ├──level0.md
+│   ├──level1.md
+│   ├── level2.md
+│   └── level3.md
 └── scripts/
-    └── automation_helpers.sh
